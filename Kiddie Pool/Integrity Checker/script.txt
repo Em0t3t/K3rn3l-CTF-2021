@@ -1,0 +1,7 @@
+Description
+Flag inside this jar is decrypted by some method that require original class name, but unfortunately class is garbage name, could you recover it and provide valid input password to get flag?
+
+Hint hint: I'm pretty sure you can find the original name in the class structure. Maybe use a java bytecode modifying tool.
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/integrity-check/IntegrityCheck.jar

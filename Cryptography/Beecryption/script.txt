@@ -1,0 +1,6 @@
+Description
+"I was watching the bees and it seemed as if they were trying to tell me something... Have I finally gone crazy?!?"
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Beecryption/subround.png 
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Beecryption/beecryption.py

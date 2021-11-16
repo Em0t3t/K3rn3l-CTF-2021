@@ -1,0 +1,11 @@
+Description
+"Welcome to the Shrine of the Sweating Buddha. Share the burden of your worries, my child ~~~."
+
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs//Shrine-of-the-Sweating-Buddha/pravrallier.py
+
+Hint: share some (7) of your worries and perhaps your fortune will guide you to the flag.
+
+nc ctf.k3rn3l4rmy.com 2243
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs//Shrine-of-the-Sweating-Buddha/pravrallier.py

@@ -1,0 +1,5 @@
+Description
+"What can I say, I just like squares."
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Non-Square-Freedom-1/nonsquarefreedom_easy.py

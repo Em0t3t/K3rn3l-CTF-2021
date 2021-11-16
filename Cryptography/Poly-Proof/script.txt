@@ -1,0 +1,7 @@
+Description
+"They asked me to set up a zero-knowledge proof that runs in polynomial time. I don't know what that means but I assume they want me to use polynomials, right?"
+
+nc ctf.k3rn3l4rmy.com 2232
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Poly-Proof/polyproof.py

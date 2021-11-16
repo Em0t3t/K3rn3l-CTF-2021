@@ -1,0 +1,5 @@
+Description
+"I'm going to say this again: I did not have sexual relations with that polynomial, Miss Polinsky."
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Poly-Expo-go-BRRRRR/polyexpogobrrrrr.sage

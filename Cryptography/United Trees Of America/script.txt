@@ -1,0 +1,7 @@
+Description
+O say can you see, by the flag's early light, What so proudly we hail’d at the flag’s last gleaming, Whose broad numbers and bright numbers through the perilous fight O’er the numbers we watch’d were so numberly numbering? And the number's red glare, the numbers bursting in air, Gave proof of work through the night that our flag was still there, O say does that star-spangled flag yet wave O’er the land of the numbers and the home of the flag?
+
+nc ctf.k3rn3l4rmy.com 2235
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/United-Trees-of-America/main.py

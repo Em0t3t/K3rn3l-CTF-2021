@@ -1,0 +1,11 @@
+Description
+"Some bees convinced me to invest in their new cryptosystem. They said their new XOR keystream would revolutionize the crypto market. However, they quickly buzzed away so all I have is this weird flyer they dropped. Luckily it has some source code on the back."
+"Have I just really been scammed by some bees??"
+
+Encrypted Flag: 632a0c6d68a7e5683601394c4be457190f7f7e4ca3343205323e4ca072773c177e6e
+
+Note: The flyer is not needed to solve the challenge, it's just for fun.
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Twizzty-Buzzinezz/honeycomb.py 
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Twizzty-Buzzinezz/honeycomb_flyer.png

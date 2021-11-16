@@ -1,0 +1,7 @@
+Description
+"Warning: Weather Control Device detected! ZAP ZAP [insert conscript_death.mp3 here]"
+"Note: there is a typo in the flag, sorry >m<."
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/lightningrod/lightningrod 
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/lightningrod/burned.crisp

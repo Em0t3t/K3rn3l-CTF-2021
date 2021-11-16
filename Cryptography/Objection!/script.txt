@@ -1,0 +1,7 @@
+Description
+"Looks like Harry is hoarding his flags again... Maybe he will stop if we can convince him both Alice and Carlo dislike hoarding too. Alice and Carlo, being stereotypical CTF admins, are not responding to your complaints. Guess you will just have to answer for them... Luckily, I managed to secure you a channel to the domain controller of the CTF server."
+
+nc ctf.k3rn3l4rmy.com 2240
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Objection/objection.py

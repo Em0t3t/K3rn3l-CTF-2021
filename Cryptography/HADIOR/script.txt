@@ -1,0 +1,9 @@
+Description
+"HADIOR will hold the DOOR."
+
+nc ctf.k3rn3l4rmy.com 2241
+
+Note: The challenge might take up to a minute to connect.
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/HADIOR/hadior.py

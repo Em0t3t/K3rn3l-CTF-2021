@@ -1,0 +1,7 @@
+Description
+You received a suspicious file from the k3rn3l4rmy hacking group, the title says ‘Not a Zip Bomb, Please Open’, you decide NOT to open it and instead try to reverse it.
+
+It is recommended that you do NOT open this, it will fill your entire disk.
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Zabomb/flag.zip

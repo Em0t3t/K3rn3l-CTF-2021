@@ -1,0 +1,5 @@
+Description
+I have build my own system that allow to log-in into K3RN3L DR0ID, but unfortunately i forgot the password, can you help me recover it?
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/kernel-droid/kernel-droid.asm

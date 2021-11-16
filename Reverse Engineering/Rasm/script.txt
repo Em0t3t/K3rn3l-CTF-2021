@@ -1,0 +1,7 @@
+Description
+Congrats on having figured out how the new programming language works!! Of course there is always that one person who has to show off by coding in assembly.
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Recurso/Recurso
+
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Recurso/Rasm-Chall/rasm.recc

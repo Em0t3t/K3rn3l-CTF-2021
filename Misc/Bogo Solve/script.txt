@@ -1,0 +1,7 @@
+Description
+I was trying to sort using Bogosort, but it was taking a while, so in the meantime I made this challenge. Enjoy!
+
+nc ctf.k3rn3l4rmy.com 2237
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/BogoSolve/main.py

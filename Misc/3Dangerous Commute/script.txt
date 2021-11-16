@@ -1,0 +1,7 @@
+Description
+"After some time in workforce-hibernation (aka unemployed), you have received an offer for a job interview. There is just one problem, it is at the other end of the Universe! Luckily you know your way around the HyperSpace, ehem nerd mm."
+
+nc ctf.k3rn3l4rmy.com 2245
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/3Dangerous-Commute/dangerouscommute.py

@@ -1,0 +1,7 @@
+Description
+Someone attacced by Bogo! I must seek revenge. Now is the time to attacc back!
+
+nc ctf.k3rn3l4rmy.com 2247
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/bogo-attack/main.pys

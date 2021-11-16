@@ -1,0 +1,11 @@
+Description
+"Hills are easy to climb, but mountains? Hoho, they sure are something else!"
+
+nc ctf.k3rn3l4rmy.com 2238
+
+Note: Wrap the flag with flag format (flag{})
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Aint-no-Mountain-High-Enough/server.py
+
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Aint-no-Mountain-High-Enough/mountaincipher.py

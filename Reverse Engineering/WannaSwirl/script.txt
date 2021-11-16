@@ -1,0 +1,8 @@
+Description
+One of the office computers has been hit by a ransomware made by the k3rn3l4rmy hacking group!! We need to recover the flag from the hard drive otherwise the company will fail. Hopefully the malware has some issues.
+
+THIS IS LINUX MALWARE DO NOT RUN ON A MACHINE YOU CARE ABOUT.
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/WannaSwirl/swirl 
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/WannaSwirl/FlagFolder.txt

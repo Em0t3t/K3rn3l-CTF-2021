@@ -1,0 +1,6 @@
+Description
+"John wants to play a game, a game of secrets. Recover his secret or be encrypted."
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Game-of-Secrets/gameofsecrets.py 
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Game-of-Secrets/output.txt

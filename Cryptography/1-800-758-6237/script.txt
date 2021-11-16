@@ -1,0 +1,7 @@
+Description
+"I NEED A PLUMBER ASAP, MY FLAG IS LEAKING ALL OVER THE PLACE!!!"
+
+nc ctf.k3rn3l4rmy.com 2233
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/1-800-758-6237/1-800-758-6237.py

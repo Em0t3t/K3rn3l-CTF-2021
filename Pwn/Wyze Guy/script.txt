@@ -1,0 +1,7 @@
+Description
+We found someone running a custom version of the latest wyze cam firmware. Seems like there may be a vulnerable CGI binary:
+
+http://ctf.k3rn3l4rmy.com:4444/cgi-bin/hello.cgi
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/wyze_guy/wyze_guy.zip

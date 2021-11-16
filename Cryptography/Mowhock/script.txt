@@ -1,0 +1,9 @@
+Description
+"This time we have hidden the flag behind TOTAL CHAOS, so good luck trying to find your way through this one, ehehe~"
+
+nc ctf.k3rn3l4rmy.com 2242
+
+Note: This is not a paper crypto, relevant papers will only help understand the algorithm, but will not help solve the challenge.
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Mowhock/mowhock.py

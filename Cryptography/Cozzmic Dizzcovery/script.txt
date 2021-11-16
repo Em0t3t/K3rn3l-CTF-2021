@@ -1,0 +1,7 @@
+Description
+"See that comb over there? It came from that meteorite I mentioned yesterday. Take a look at this, if I send bytes in, different bytes come out! Then there's this button that seems to just produce random bytes... I'm absolutely stumped :S"
+
+nc ctf.k3rn3l4rmy.com 2239
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Cozzmic-Dizzcovery/pandorascomb.py

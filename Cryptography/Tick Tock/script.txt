@@ -1,0 +1,6 @@
+Description
+"I chopped up my flag and hid it behind this simple key exchange. Try dlogging your way in if you are brave enough!"
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Tick-Tock/output.txt 
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Tick-Tock/ticktock.py

@@ -1,0 +1,7 @@
+Description
+You have finally broken into the k3rn3l4rmy servers and found the file that can take them down however it looks like they use a custom programming language, can you figure out the compiled code?
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Recurso/Recurso
+
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Recurso/Recurso-Chall/leFlag.recc

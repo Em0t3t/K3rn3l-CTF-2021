@@ -1,0 +1,7 @@
+Description
+"To store our most embarrassing secrets, we created a Remote Secure Armoury protected by layered RSA encryption with XOR blinding. Never again will my friends be able to mock me for my use of words!"
+
+nc ctf.k3rn3l4rmy.com 2244
+
+Attachments
+https://ctf.k3rn3l4rmy.com/kernelctf-distribution-challs/Total-Encryption/ltet.py
